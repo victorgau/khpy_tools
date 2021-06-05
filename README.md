@@ -19,6 +19,11 @@
 * [Colab](https://colab.research.google.com)
 * [trinket](https://trinket.io/)
 * [PuTTY](https://www.putty.org/)
+* [Line Notify](https://notify-bot.line.me/)
+* [Line Bot](https://developers.line.biz/en/services/messaging-api/)
+* [Telegram](https://telegram.org/)
+* [Trello](https://trello.com/)
+* [WordPress](https://wordpress.org/)
 
 ### VSC Extensions
 
