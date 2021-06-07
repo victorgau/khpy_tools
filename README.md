@@ -20,7 +20,7 @@
 |[github](https://github.com/)|配合git使用的雲端原始程式託管平台|
 |[ngrok](https://ngrok.com/)|可以讓你測試正在內網開發的網站的測試工具，給你一個public IP轉送訊息到你的private IP。|
 |[heroku](https://www.heroku.com/)|可以讓您置放程式在上面執行的雲端平台|
-|[Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)|以前叫IPython Notebook。因為介面蠻好用的，所以Julia跟R的Kernel也加入一起使用，所以現在叫Jupyter Notebook。在Jupyter Notebook上面可以寫程式、寫筆記、寫數學式等，是用Python來寫筆記的一個很好用的工具。|
+|[Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/)|Jupyter Notebook以前叫IPython Notebook。因為介面蠻好用的，所以Julia跟R的Kernel也加入一起使用，所以現在叫Jupyter Notebook。在Jupyter Notebook上面可以寫程式、寫筆記、寫數學式等，是可以整合Python程式進入筆記的一個很好用的工具。|
 |[Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable)|Jupyter Lab可以算是Jupyter Notebook的酷炫版。|
 |[Colab](https://colab.research.google.com)|Google出的雲端協作筆記本，類似Jupyter Notebook的雲端版本。使用者只要有Browser跟gmail帳號就可以使用了，還可以線上協作，超好用的。|
 |[trinket](https://trinket.io/)|讓Python初學者可以練習寫turtle的網路平台|
