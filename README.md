@@ -12,7 +12,7 @@
 
 底下的表格整理了一些我們自己在教學或開發產品或服務的MVP時常常會用到的平台或工具。
 
-|工具或平台|說明|
+|工具及平台|說明|
 |:--|:--|
 |[Visual Studio Code](https://code.visualstudio.com/)|微軟開源的編輯器。|
 |[Anaconda](https://www.anaconda.com/)|內含Python直譯器及初學者常用套件。|
