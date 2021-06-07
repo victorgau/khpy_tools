@@ -10,21 +10,27 @@
 
 ### 常用平台及工具
 
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Anaconda](https://www.anaconda.com/)
-* [git](https://git-scm.com/downloads)
-* [github](https://github.com/)
-* [ngrok](https://ngrok.com/)
-* [heroku](https://www.heroku.com/)
-* [Colab](https://colab.research.google.com)
-* [trinket](https://trinket.io/)
-* [PuTTY](https://www.putty.org/)
-* [Line Notify](https://notify-bot.line.me/)
-* [Line Bot](https://developers.line.biz/en/services/messaging-api/)
-* [Telegram](https://telegram.org/)
-* [Trello](https://trello.com/)
-* [WordPress](https://wordpress.org/)
+底下的表格整理了一些我們自己常常用來教學或開發產品或服務的MVP常常會用到的平台或工具。
+
+|工具或平台|說明|
+|:--|:--|
+|[Visual Studio Code](https://code.visualstudio.com/)|微軟開源的編輯器。|
+|[Anaconda](https://www.anaconda.com/)|內含Python直譯器及初學者常用套件。|
+|[git](https://git-scm.com/downloads)|版本管理工具|
+|[github](https://github.com/)|配合git使用的雲端原始程式託管平台|
+|[ngrok](https://ngrok.com/)|可以讓你測試正在內網開發的網站的測試工具，給你一個public IP轉送訊息到你的private IP。|
+|[heroku](https://www.heroku.com/)|可以讓您置放程式在上面執行的雲端平台|
+|[Colab](https://colab.research.google.com)|Google出的雲端協作筆記本|
+|[trinket](https://trinket.io/)|讓Python初學者可以練習寫turtle的網路平台|
+|[PuTTY](https://www.putty.org/)|連線工具|
+|[Line Notify](https://notify-bot.line.me/)|Line的通知服務|
+|[Line Bot](https://developers.line.biz/en/services/messaging-api/)|Line機器人的API|
+|[Telegram](https://telegram.org/)|有安全連線的即時通訊軟體(平台)|
+|[Trello](https://trello.com/)|看板(Kanban)軟體，不是看盤軟體喔！|
+|[WordPress](https://wordpress.org/)|架設部落格或其他類型網站的工具|
+
 
 ### VSC Extensions
 
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+* [Remote SSH with Visual Studio Code](https://code.visualstudio.com/blogs/2019/07/25/remote-ssh)
